@@ -1,0 +1,16 @@
+c:\users\едиген\source\repos\MigrationHW\MigrationHW\bin\Debug\MigrationHW.exe.config
+c:\users\едиген\source\repos\MigrationHW\MigrationHW\bin\Debug\MigrationHW.exe
+c:\users\едиген\source\repos\MigrationHW\MigrationHW\bin\Debug\MigrationHW.pdb
+c:\users\едиген\source\repos\MigrationHW\MigrationHW\bin\Debug\EntityFramework.dll
+c:\users\едиген\source\repos\MigrationHW\MigrationHW\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\едиген\source\repos\MigrationHW\MigrationHW\bin\Debug\EntityFramework.xml
+c:\users\едиген\source\repos\MigrationHW\MigrationHW\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\едиген\source\repos\MigrationHW\MigrationHW\bin\Debug\ru\EntityFramework.resources.dll
+c:\users\едиген\source\repos\MigrationHW\MigrationHW\obj\Debug\MigrationHW.csprojResolveAssemblyReference.cache
+c:\users\едиген\source\repos\MigrationHW\MigrationHW\obj\Debug\MigrationHW.csproj.CoreCompileInputs.cache
+c:\users\едиген\source\repos\MigrationHW\MigrationHW\obj\Debug\MigrationHW.csproj.CopyComplete
+c:\users\едиген\source\repos\MigrationHW\MigrationHW\obj\Debug\MigrationHW.exe
+c:\users\едиген\source\repos\MigrationHW\MigrationHW\obj\Debug\MigrationHW.pdb
+c:\users\едиген\source\repos\MigrationHW\MigrationHW\obj\Debug\MigrationHW.Migrations.AddedSurname.resources
+c:\users\едиген\source\repos\MigrationHW\MigrationHW\obj\Debug\MigrationHW.csproj.GenerateResource.cache
+c:\users\едиген\source\repos\MigrationHW\MigrationHW\obj\Debug\MigrationHW.Migrations.AddedGroup.resources
